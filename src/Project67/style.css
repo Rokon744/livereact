@@ -1,0 +1,41 @@
+body{
+    font-family: 'Exo', sans-serif;
+}
+
+.main_nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: red;
+}
+.active{
+    border-bottom: 2px solid red !important;
+}
+
+.home_hgt{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    align-content: space-around
+}
+.image_area img{
+    animation: upDown 3s infinite ;
+}
+@keyframes upDown {
+    100%{
+        transform:translateY(-25px);
+    }
+    5%{
+        transform:translateY(25px);
+    }
+}
+.btn-outline-primary a{
+    text-decoration: none;
+    color: #000;
+}
+.grow_business{
+    font-size: rem;
+    letter-spacing: 4px;
+}
