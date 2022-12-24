@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/livereact/static/css/main.1c2295c8.css",
+    "main.js": "/livereact/static/js/main.463af6ba.js",
+    "static/media/img-5.jpg": "/livereact/static/media/img-5.47a4f1d0e40a1a5af3ab.jpg",
+    "static/media/img-3.jpg": "/livereact/static/media/img-3.ecda5dbb8ab4b3212291.jpg",
+    "static/media/img-6.jpg": "/livereact/static/media/img-6.79a81d281c81b1db81c3.jpg",
+    "static/media/world.jpg": "/livereact/static/media/world.86861b2ab98be0fbf972.jpg",
+    "index.html": "/livereact/index.html",
+    "main.1c2295c8.css.map": "/livereact/static/css/main.1c2295c8.css.map",
+    "main.463af6ba.js.map": "/livereact/static/js/main.463af6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2295c8.css",
+    "static/js/main.463af6ba.js"
+  ]
+}
