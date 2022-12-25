@@ -5,7 +5,7 @@ const MainCard = (props) => {
     return (
         <>
         
-        <div className="col-lg-4 col-xxl-3 col-md-6 col-8 mx-auto">
+        <div className="col-lg-4 col-xxl-3 col-md-6 col-8 d-flex justify-content-center">
             <div className="card" style={{ width: "18rem" }}>
                 <img width='100%' height='200' src={props.src} className="card-img-top" alt="..." />
                 <div className="card-body">
