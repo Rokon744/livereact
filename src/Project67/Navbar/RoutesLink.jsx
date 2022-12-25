@@ -13,6 +13,7 @@ const RoutesLink = () => {
             <RouteButton/>
             <Routes>
                 <Route path="/" element={<Home/>}/>
+                <Route path="/livereact" element={<Home/>}/>
                 <Route path="/contact" element={<Contact/>}/>
                 <Route path="/service" element={<Service/>}/>
                 <Route path="/about" element={<About/>}/>
