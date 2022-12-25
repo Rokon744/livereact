@@ -17,7 +17,7 @@ const RoutesLink = () => {
                 <Route path="/contact" element={<Contact/>}/>
                 <Route path="/service" element={<Service/>}/>
                 <Route path="/about" element={<About/>}/>
-                <Route path="*" element={<ErrPage/>}/>
+                <Route path="*" element={<Home/>}/>
             </Routes>
         </>
     )
